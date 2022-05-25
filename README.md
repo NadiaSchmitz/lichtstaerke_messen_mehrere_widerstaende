@@ -1,6 +1,7 @@
 # lichtstaerke_messen_mehrere_widerstaende
 
 Hell   /   Dunkel
+
 Widerstand 100 OHM    19-20     5
 
 Widerstand 200 OHM    41-42     14
